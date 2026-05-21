@@ -25,5 +25,9 @@ Currently based in Ludhiana, India. My goal is to become a full stack dev.
  
 ## 📬 How to reach me
  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saksham.zalpuri200@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham-zalpuri-489a143b1/)
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=saksham.zalpuri200@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/saksham-zalpuri-489a143b1/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
