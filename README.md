@@ -7,7 +7,7 @@ Currently based in Ludhiana, India. My goal is to become a full stack dev.
  
 ## 🔭 What I'm working on
  
-- Building my first live frontend project to make my work publicly visible.
+- Building my first live full stack project to make my work publicly visible.
 - Actively applying for full stack roles alongside with frontend.
 - Leveling up my communication skills alongside my code.
 ---
@@ -25,6 +25,5 @@ Currently based in Ludhiana, India. My goal is to become a full stack dev.
  
 ## 📬 How to reach me
  
-- **Email:** your@email.com
-- **LinkedIn:** [linkedin.com/in/yourhandle](https://linkedin.com/in/yourhandle)
-- **Portfolio:** coming soon 🚧
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saksham.zalpuri200@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham-zalpuri-489a143b1/)
