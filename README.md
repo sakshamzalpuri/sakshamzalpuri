@@ -29,14 +29,12 @@
   <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
-  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/GSAP-1E4D2B?style=for-the-badge&logo=greensock&logoColor=88CE02" />&nbsp;
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/GITHUB-24292F?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
+
 
 ## Connect with me
 
@@ -45,7 +43,3 @@
   <a href="https://github.com/sakshamzalpuri"><img src="https://img.shields.io/badge/GITHUB-24292F?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/saksham-zalpuri-489a143b1/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a8f0d8,100:5adfbe&height=100&section=footer" />
-</div>
