@@ -1,4 +1,4 @@
-# Hi there, I'm Saksham Zalpuri 👋
+## Building modern web applications while learning frontend development. 
 
 <p>
   <a href="https://sakshamzalpuri.dev"><img src="https://img.shields.io/badge/PORTFOLIO-0f0f0f?style=flat-square&logo=vercel&logoColor=5adfbe" /></a>&nbsp;
