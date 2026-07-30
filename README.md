@@ -1,4 +1,4 @@
-## Building modern web applications while learning frontend development. 
+## Hi, I'm Saksham Zalpuri
 
 <p>
   <a href="https://sakshamzalpuri.dev"><img src="https://img.shields.io/badge/PORTFOLIO-0f0f0f?style=flat-square&logo=vercel&logoColor=5adfbe" /></a>&nbsp;
@@ -7,40 +7,61 @@
   <a href="https://www.linkedin.com/in/saksham-zalpuri-489a143b1/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
-## Aspiring Frontend Developer
+## Frontend Developer
 
-I'm building a strong foundation in frontend development by creating real-world projects and continuously improving my problem-solving and development skills.
+Building responsive, accessible, and production-ready web applications with modern JavaScript and React.
 
 ## 🚀 Current Focus
 
-- Building responsive and interactive web applications
-- Strengthening JavaScript fundamentals
-- Learning React and modern frontend development
-- Writing cleaner, maintainable code
-- Improving Git and GitHub workflow
+- Building production-style React applications
+- Writing reusable and maintainable components
+- Working with APIs and asynchronous data
+- Improving application performance
+- Learning modern frontend architecture
 
-## 🛠️ Skills & Tools
+## 🛠️ Tech Stack
 
+### Frontend
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/GITHUB-24292F?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-## 📚 Learning
+### Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
-- React
-- TypeScript *(next)*
-- Next.js *(after React)*
-- Frontend performance and best practices
+### Currently Learning
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+</p>
 
-## 🎯 Goal
+## ⭐ Featured Projects
 
-Build production-ready frontend applications, contribute to real-world projects, and grow into a skilled frontend engineer.
+### GitHub User Finder
+Search GitHub users using the GitHub API.
+
+• API Integration
+• Search & Error Handling
+• Responsive UI
+
+### DevFlow
+Production-style React project focused on scalable component architecture.
+
+## 🎯 2026 Goals
+
+- Ship multiple production-quality React projects
+- Contribute to open-source
+- Strengthen frontend architecture skills
+- Become interview-ready for frontend developer roles
 
 ## 📫 Connect with Me
 
@@ -48,5 +69,4 @@ Build production-ready frontend applications, contribute to real-world projects,
   <a href="mailto:saksham.zalpuri200@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
   <a href="https://github.com/sakshamzalpuri"><img src="https://img.shields.io/badge/GITHUB-24292F?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/saksham-zalpuri-489a143b1/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>lpuri-489a143b1/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
