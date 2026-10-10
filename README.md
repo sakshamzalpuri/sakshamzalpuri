@@ -1,49 +1,26 @@
 # Saksham Zalpuri
-**Frontend Engineer**  
-*Specializing in React, JavaScript (ES6+), and Tailwind CSS.*
-<p>
-  <a href="https://sakshamzalpuri.github.io/Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-0f0f0f?style=flat-square&logo=vercel&logoColor=5adfbe" /></a>&nbsp;
-  <a href="https://docs.google.com/document/d/1CIhU7zXEM-Kl9UB-M_kYhtqjY1wKsGlov2NVCRe97h4/export?format=pdf" target="_blank"><img src="https://img.shields.io/badge/RESUME-21262d?style=flat-square&logo=googledocs&logoColor=5adfbe" /></a>&nbsp;
-</p>
 
----
+**Frontend Developer | React, JavaScript & Tailwind CSS**
 
-## Technical Stack
+I build responsive web interfaces and practical frontend applications, with a focus on API integration, UI state, and clear user feedback.
 
-**Languages & Core:**
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+[Portfolio](https://sakshamzalpuri.github.io/Portfolio/) · [Resume](https://docs.google.com/document/d/1CIhU7zXEM-Kl9UB-M_kYhtqjY1wKsGlov2NVCRe97h4/export?format=pdf) · [LinkedIn](https://www.linkedin.com/in/saksham-zalpuri-489a143b1/) · [Email](mailto:saksham.zalpuri200@gmail.com)
 
-**Frontend & Frameworks:**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logoColor=white" />
-</p>
+## Featured Project
 
-**Tools:**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-</p>
+### [DevLens — GitHub Developer Analytics](https://github.com/sakshamzalpuri/DevLens)
+A browser-based application that retrieves GitHub profile and repository data through the GitHub REST API.
 
----
+- Handles asynchronous requests, loading states, and user-facing error feedback.
+- Organizes API communication, UI rendering, persistence, and utility logic into separate modules.
+- Saves recent searches in localStorage and supports keyboard and click interactions.
 
-## Featured Work
+**[Live Demo](https://sakshamzalpuri.github.io/DevLens/) · [Source Code](https://github.com/sakshamzalpuri/DevLens)**
 
-### DevLens
-**JavaScript (ES6+), GitHub REST API, HTML5, CSS3**  
-A developer analytics tool featuring GitHub REST API integration, asynchronous request handling, local storage persistence, dynamic UI rendering, and loading/error state management.  
-<a href="https://sakshamzalpuri.github.io/DevLens/" target="_blank">Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/sakshamzalpuri/DevLens" target="_blank">Repository</a>
+## Skills
 
----
+- **Frontend:** React, JavaScript (ES6+), HTML, CSS, Tailwind CSS
+- **Web:** Responsive design, REST API integration, asynchronous JavaScript, client-side state
+- **Tools:** Git, GitHub, Vite
 
-## Connect
-<p>
-  <a href="mailto:saksham.zalpuri200@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/saksham-zalpuri-489a143b1/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-</p>
+I’m looking for an entry-level frontend developer role where I can contribute to real product work and keep improving through shipping and feedback.
